@@ -1,6 +1,6 @@
 # All Restaurants in Nebraska, US
 
-> Free BeamStation sample export with 463 rows and masked direct-contact fields.
+> Free BeamStation sample export with 173 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `674101` |
 | Location | Nebraska |
 | Category | Restaurants |
-| Full dataset size | 4,637 records |
-| Free sample size | 463 records (9.98%) |
-| Last export | 2026-04-14T20:28:47.550647+00:00 |
+| Full dataset size | 1,736 records |
+| Free sample size | 173 records (9.97%) |
+| Last export | 2026-04-21T22:32:11.688136+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-nebraska-us-sample-674101/releases/download/sample-latest/beamstation_674101_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
