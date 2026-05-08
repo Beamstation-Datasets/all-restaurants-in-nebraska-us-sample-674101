@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ff95d3af-4814-4300-9f47-a847f8e3fda0",
+  "export_job_id": "c0ca73ef-efe6-44d4-bafd-6282de585c24",
   "id_short": 674101,
-  "published_at": "2026-04-29T07:56:16Z",
+  "published_at": "2026-05-08T19:08:51Z",
   "repo_name": "all-restaurants-in-nebraska-us-sample-674101",
   "sample_asset_name": "beamstation_674101_restaurants-us-ne_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/674101/beamstation_674101_restaurants-us-ne_SAMPLE_DIST.csv",
-  "sample_records": 469,
-  "sample_sha256": "c3ec949f3f73a795da7b9d7dba903a8ac510b675c8ad13c2c6dda1b4d6919500",
-  "sample_size_bytes": 1366802,
-  "total_records": 4691
+  "sample_records": 497,
+  "sample_sha256": "5dbd8508cb68b8f6fd4e52ac661e64944dd9a14b27013f25c3be86d8a306aad5",
+  "sample_size_bytes": 1461047,
+  "total_records": 4972
 }
